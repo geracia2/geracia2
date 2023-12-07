@@ -6,7 +6,7 @@ Bridging the Gap: My mission? To seamlessly unite the realms of design and code,
 I will update this page as I produce new projects, but for now check out my first game Space Invaders :space_invader:
 
 
- | Space Invaders :space_invader: | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Space Invaders :space_invader: | Per Scholas |
+|     :---:      |     :---:      |
+| [![Space Invaders Screenshot](/images/Screenshot.png)](https://github.com/geracia2/Space_Invaders)  | [![Per Scholas Logo](https://perscholas.org/wp-content/themes/per-scholas/assets/images/logo1.svg)](https://perscholas.org)  |
+| This is my first project in Software Engineering! <br /> [The Documentation](https://github.com/geracia2/Space_Invaders) <br /> [The Playable Game](https://geracia2.github.io/Space_Invaders/) | Here you can find my Per Scholas repo. Inside is a collection of our lectures and labs. If you are intersted in leanring more about Per Scholas [follow this link](https://perscholas.org/courses/software-engineer/software-engineer-greater-cincinnati/) |
