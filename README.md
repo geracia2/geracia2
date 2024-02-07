@@ -14,4 +14,4 @@ I will update this page as I produce new projects! :space_invader:
 | **Per Scholas** |
 | :---: |
 |[![Per Scholas Logo](https://perscholas.org/wp-content/themes/per-scholas/assets/images/logo1.svg)](https://perscholas.org)|
-| Here you can find my Per Scholas repo. Inside is a collection of our lectures and labs. If you are intersted in leanring more about Per Scholas [follow this link](https://perscholas.org/courses/software-engineer/software-engineer-greater-cincinnati/) |
+| Here you can find my Per Scholas repo. Inside is a collection of our lectures and labs. If you are interested in learning more about Per Scholas [follow this link](https://perscholas.org/courses/software-engineer/software-engineer-greater-cincinnati/) |
